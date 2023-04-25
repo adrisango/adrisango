@@ -17,7 +17,7 @@ Welcome to my GitHub. My name is Adri, I'm a software developer pursuing a Maste
 
 <div display="flex">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ### 🚀 I'm looking forward to:
