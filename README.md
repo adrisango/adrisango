@@ -2,6 +2,8 @@
 
 Welcome to my GitHub. My name is Adri, I'm a software developer pursuing a Master's in Applied Computer Science. 🎓
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrisango&layout=donut)](https://github.com/adrisango/github-readme-stats)
+
 ### 💻 I enjoy working with:
 
 <div display="flex">
