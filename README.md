@@ -24,12 +24,12 @@ Welcome to my GitHub. My name is Adri, I'm a software developer pursuing a Maste
 
 ### 🚀 I'm looking forward to:
 
-- 🤝 Contribute to Open Source projects!
+- 🤝 Contribute to Open Source projects.
 - 📝 Polish my Data Structures and Algorithms skills.
 
 ### ⚡ About me:
 
-- 👾 Avid Overwatch and World Of Warcraft player. Love videogames!
+- 👾 Avid Overwatch and World Of Warcraft player.
 - 🍕 Pizza enjoyer.
 - 🐱 Cat person. 
 - 🎨 Artist.
